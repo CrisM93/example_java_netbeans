@@ -3,7 +3,7 @@ package aritmeticapoo;
 
 /**
  *
- * @author crizt
+ * @author crizt mtz
  */
 public class AritmeticaPOO {
    
